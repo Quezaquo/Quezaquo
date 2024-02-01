@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! I'm a Quezaquo, from France</h2>
+<h2 align="left">Hello 👋! I'm Quezaquo, from France 🇫🇷 </h2>
 
 ###
 
