@@ -2,7 +2,7 @@
   Hello, I'm Quezaquo 👋
 </h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=22&pause=1000&color=1E77F7&vCenter=true&random=false&width=500&lines=Junior+web+developer;Angular+for+sure!;Nice+to+meet+you!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=22&pause=1000&color=1E77F7&vCenter=true&random=false&width=500&lines=Junior+web+developer;Nice+to+meet+you!" alt="Typing SVG" /></a>
 
 <h4 align="left">Languages and Tools</h4>
 
