@@ -4,6 +4,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=22&pause=1000&color=1E77F7&vCenter=true&random=false&width=500&lines=Junior+web+developer;Nice+to+meet+you!" alt="Typing SVG" /></a>
 
+![](https://komarev.com/ghpvc/?username=Quezaquo&style=for-the-badge&color=blue)
+
 <h4 align="left">Languages and Tools</h4>
 
 ###
