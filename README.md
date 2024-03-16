@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=22&pause=1000&color=1E77F7&vCenter=true&random=false&width=500&lines=Junior+web+developer;Nice+to+meet+you!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&size=22&pause=1000&color=1E77F7&center=true&vCenter=true&random=false&width=500&lines=Junior+web+developer;Nice+to+meet+you!;Discord+bots+lover;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,8 +27,17 @@
 
 <br>
 
+<!--
 <p align="center">
   <a href="https://github-readme-stats.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quezaquo&layout=compact" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quezaquo&langs_count=5&layout=compact&theme=discord_old_blurple" alt="Top Langs"/>
   </a>
 </p>
+-->
+<!--
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api?username=quezaquo&langs_count=5&layout=compact&theme=discord_old_blurple" alt="Top Langs"/>
+  </a>
+</p>
+-->
