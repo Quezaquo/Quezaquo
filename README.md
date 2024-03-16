@@ -10,7 +10,9 @@
 ###
 
 <p align="center">
-  ![Languages](https://skillicons.dev/icons?i=css,js,html,mysql,postgres,py,ts)
-  ![Technologies](https://skillicons.dev/icons?i=angular,discordjs,nodejs,sass)
-  ![Tools](https://skillicons.dev/icons?i=discord,figma,github,md,mongodb,stackoverflow,vscode,appwrite)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,js,html,mysql,postgres,py,ts" alt="Languages"/>
+    <img src="https://skillicons.dev/icons?i=angular,discordjs,nodejs,sass" alt="Technologies"/>
+    <img src="https://skillicons.dev/icons?i=discord,figma,github,md,mongodb,stackoverflow,vscode,appwrite" alt="Tools"/>
+  </a>
 </p>
