@@ -24,3 +24,11 @@
     <img src="https://skillicons.dev/icons?i=appwrite,discord,figma,github,md,mongodb,stackoverflow,vscode" alt="Tools"/>
   </a>
 </p>
+
+<br>
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quezaquo&layout=compact" alt="Top Langs"/>
+  </a>
+</p>
