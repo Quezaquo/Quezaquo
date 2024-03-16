@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,js,html,mysql,postgres,py,ts" alt="Languages"/>
+    <img src="https://skillicons.dev/icons?i=css,html,js,mysql,postgres,py,ts" alt="Languages"/>
   </a>
 </p>
 <p align="center">
@@ -21,6 +21,6 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,figma,github,md,mongodb,stackoverflow,vscode,appwrite" alt="Tools"/>
+    <img src="https://skillicons.dev/icons?i=appwrite,discord,figma,github,md,mongodb,stackoverflow,vscode" alt="Tools"/>
   </a>
 </p>
